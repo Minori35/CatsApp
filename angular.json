@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "catsApp"
+  "defaultProject": "catsApp",
+  "cli": {
+    "analytics": "f9c6f8b2-a8b8-40bb-97cb-556f7985e7a7"
+  }
 }
